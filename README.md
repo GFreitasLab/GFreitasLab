@@ -6,7 +6,7 @@ Desenvolvedor Backend focado em soluções eficientes e seguras. Atualmente curs
 [![My Skills](https://skillicons.dev/icons?i=python,django,c,postgres,sqlite,docker,git,linux,bash,nix)](https://skillicons.dev)
 
 ### 📚 Atualmente Estudando
-[![Studying](https://skillicons.dev/icons?i=cs,dotnet,java)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 ---
 
