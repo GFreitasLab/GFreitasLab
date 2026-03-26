@@ -3,7 +3,7 @@
 Desenvolvedor Backend focado em soluções eficientes e seguras. Atualmente cursando Análise e Desenvolvimento de Sistemas na FBr e entusiasta de **NixOS** ❄️.
 
 ### 🛠️ Minha Stack & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=python,django,c,postgres,sqlite,docker,git,linux,bash,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,sqlite,docker,git,linux,bash,nix)](https://skillicons.dev)
 
 ### 📚 Atualmente Estudando
 [![Studying](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
